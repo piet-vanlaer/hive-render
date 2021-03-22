@@ -1,3 +1,6 @@
+## Modified from code found at 
+## https://blender.stackexchange.com/questions/156503/rendering-on-command-line-with-gpu/156680#156680
+
 import bpy
 import os
 import sys
